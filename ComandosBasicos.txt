@@ -1,0 +1,20 @@
+Configurar repositorio remoto:
+
+git init
+git config user.name
+git config user.email
+git remote add origin
+
+
+Subir proyectos a github:
+
+git status
+git add
+git commit -m
+git push -u origin master
+
+
+Bajar proyectos de github:
+
+git clone
+git pull origin master
