@@ -1,0 +1,3 @@
+rm -r nombre del archivo
+git commit -m "borre el archivo"
+git push
