@@ -1,0 +1,5 @@
+despues de escribir, editar, o modificar el archivo , escribir..
+git status                                                  Te muestra qué archivos fueron modificados.
+git add (""nombre_del_archivo"" sin parentesis ni comillas)         agrega los cambios
+git commit -m "Describo brevemente qué cambié"              Creá un commit con un mensaje explicativo
+git push                                                    sube los cambios
