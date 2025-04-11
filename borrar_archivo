@@ -1,3 +1,4 @@
 rm -r nombre del archivo
 git commit -m "borre el archivo"
-"git push" 
+(te va a preguntar, que queres hacer, tenes q poner git rm y el nombre del archivo )
+git push
