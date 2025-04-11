@@ -1,4 +1,0 @@
-touch comandos2.txt               para crear el archivo
-git add comando2.txt              para avisarle a git q lo agregue 
-git commit -m "agrego comandos"   (Guarda los cambios que hiciste en los archivos una vez que los agregaste con git add y los registra en el historial del repositorio)
-git push                           envía tus cambios guardados (commits) desde tu computadora al repositorio remoto (por ejemplo, en GitHub).
